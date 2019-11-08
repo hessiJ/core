@@ -8,11 +8,12 @@ Repository Contents
 
 * **/Hardware** - Eagle design files (.brd, .sch)
 * **/Firmware** - Contains the library for the microcontroller (.h, .cpp)
+* **/Software** - Contains the apk library for android 
 
 Documentation
 --------------
 
-Product Versions
+Product Versions Hardware
 ----------------
 * [core-feather-shield-adc-hGacc] - A feather wing shield with ADC and highG ACC.
 * [core-feather-shield-adc-imu-basic_v1_0] - A feather wing shield with ADC and IMU.
