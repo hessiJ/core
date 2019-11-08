@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">coreViewer</string>
+    <string name="text_start_scan">Start Scan</string>
+    <string name="text_stop_scan">Stop Scan</string>
+    <string name="text_adc_on">ADC on</string>
+    <string name="text_adc_off">ADC off</string>
+    <string name="text_switch_graph">Switch Graph</string>
+    <string name="disconnect_all">disconnect all</string>
+    <string name="settings_button">settings</string>
+    <string name="apply_changes">APPLY CHANGES</string>
+    <string name="cancel">CANCEL</string>
+    <string name="connect">CONNECT</string>
+    <string name="disconnect">DISCONNECT</string>
+
+    <!-- Peripherals Details Fragment -->
+    <string name="peripheral_name">Name:\u0020</string>
+    <string name="peripheral_address">Address:\u0020</string>
+    <string name="peripheral_battery">Battery:\u0020</string>
+    <string name="peripheral_signal">Signal:\u0020</string>
+    <string name="change_name">Change name:\u0020</string>
+    <string name="change_calib">Change calibration value:\u0020</string>
+    <string name="change_average">Change average values:\u0020</string>
+    <string name="change_calib_unit">Change calibration unit:\u0020</string>
+    <string name="peripheral_sensor_value">Adc value:\u0020</string>
+    <string name="change">Change :\u0020</string>
+
+    <string-array name="calibration_values_array">
+        <item></item>
+        <item>Nm</item>
+        <item>N</item>
+        <item>mV</item>
+        <item>kg</item>
+    </string-array>
+
+    <string-array name="change_properties">
+        <item>Name</item>
+        <item>Reset device</item>
+        <item>Calibration value</item>
+        <item>Calibration unit</item>
+    </string-array>
+
+    <string name="search_devices">Search Devices</string>
+    <string name="zoom_in_text">+</string>
+    <string name="zoom_out_text">-</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logfile_name_label">Logfile name:</string>
+    <string name="logfile_name_extension">&lt;Address&gt;&lt;Time&gt;&lt;Date&gt;.csv</string>
+    <string name="text_recording_to">Recording to:</string>
+    <string name="not_recording_text">Currently not recording.</string>
+    <string name="min_max_reset_interval_label">Min/Max reset interval:</string>
+    <string name="current_log_file_size_text">Currently not recording.</string>
+
+
+</resources>

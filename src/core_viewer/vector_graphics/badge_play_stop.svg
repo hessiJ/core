@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="badge_play_stop.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-45.202637"
+     inkscape:cy="418.5159"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g855"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:measure-start="393.502,559.284"
+     inkscape:measure-end="393.202,546.24">
+    <inkscape:grid
+       type="xygrid"
+       id="grid892" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g855"
+       transform="matrix(0.26458333,0,0,0.26458333,133.41047,141.75938)">
+      <g
+         id="background">
+        <rect
+           id="rect835"
+           width="32"
+           height="32"
+           x="0"
+           y="0"
+           style="fill:none" />
+      </g>
+      <g
+         id="g4657"
+         transform="matrix(0.6666673,0,0,0.66666804,-71.764774,21.530067)"
+         inkscape:export-filename="D:\coreSensingTechnologies\Software\coreviewer\app\src\main\res\mipmap-xxhdpi\play_button.png"
+         inkscape:export-xdpi="144"
+         inkscape:export-ydpi="144">
+        <g
+           inkscape:export-ydpi="144"
+           inkscape:export-xdpi="144"
+           inkscape:export-filename="D:\coreSensingTechnologies\Software\coreviewer\app\src\main\res\mipmap-xxhdpi\play_button.png"
+           transform="matrix(1.9049989,0,0,1.9049955,50.509987,-28.556302)"
+           id="g922">
+          <circle
+             cy="10.694907"
+             cx="-102.05978"
+             id="path885"
+             style="fill:none;stroke:#000000;stroke-width:6.87186861;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:export-filename="D:\coreSensingTechnologies\Software\coreviewer\app\src\main\res\mipmap-xxhdpi\play_button.png"
+             inkscape:export-xdpi="144"
+             inkscape:export-ydpi="144"
+             r="34.359341" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path894"
+             d="M -110.7266,26.884431 V -5.9011593 l 23.178308,16.3927973 z"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.04210222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="g4652"
+         transform="matrix(0.66666713,0,0,0.66666713,149.63388,63.105457)"
+         inkscape:export-filename="D:\coreSensingTechnologies\Software\coreviewer\app\src\main\res\mipmap-xxhdpi\stop_button.png"
+         inkscape:export-xdpi="144"
+         inkscape:export-ydpi="144">
+        <rect
+           transform="scale(-1)"
+           id="rect840"
+           y="47.086838"
+           x="287.45053"
+           width="48"
+           height="48"
+           style="stroke-width:8.00000095" />
+        <ellipse
+           transform="scale(-1)"
+           ry="65.454391"
+           rx="65.454506"
+           inkscape:export-ydpi="144"
+           inkscape:export-xdpi="144"
+           inkscape:export-filename="D:\coreSensingTechnologies\Software\coreviewer\app\src\main\res\mipmap-xxhdpi\play_button.png"
+           style="fill:none;stroke:#000000;stroke-width:13.09089088;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path885-9"
+           cx="311.45053"
+           cy="71.086838" />
+      </g>
+    </g>
+  </g>
+</svg>

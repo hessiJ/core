@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="badge_stop.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="515.64844"
+     inkscape:cy="566.33968"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g855"
+       transform="matrix(0.26458333,0,0,0.26458333,133.41047,141.75938)">
+      <g
+         id="background">
+        <rect
+           id="rect835"
+           width="32"
+           height="32"
+           x="0"
+           y="0"
+           style="fill:none" />
+      </g>
+      <g
+         id="stop_x5F_badge">
+        <path
+           id="path838"
+           d="m 14,23 c 0,-4.973 4.027,-9 9,-9 v 0 c 4.971,0 8.998,4.027 9,9 v 0 c -0.002,4.971 -4.029,8.998 -9,9 v 0 c -4.973,-0.002 -9,-4.029 -9,-9 z m 2.116,0 c 0.008,3.799 3.083,6.874 6.884,6.883 v 0 C 26.799,29.874 29.874,26.799 29.883,23 v 0 C 29.874,19.199 26.799,16.124 23,16.116 v 0 C 19.199,16.124 16.124,19.199 16.116,23 Z"
+           inkscape:connector-curvature="0" />
+        <rect
+           id="rect840"
+           y="20"
+           x="20"
+           width="6"
+           height="6" />
+      </g>
+    </g>
+  </g>
+</svg>

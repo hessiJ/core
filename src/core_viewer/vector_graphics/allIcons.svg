@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="allIcons.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="544.3198"
+     inkscape:cy="727.19847"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g855"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:measure-start="393.502,559.284"
+     inkscape:measure-end="393.202,546.24">
+    <inkscape:grid
+       type="xygrid"
+       id="grid892" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g855"
+       transform="matrix(0.26458333,0,0,0.26458333,133.41047,141.75938)">
+      <g
+         id="background">
+        <rect
+           id="rect835"
+           width="32"
+           height="32"
+           x="0"
+           y="0"
+           style="fill:none" />
+      </g>
+      <g
+         id="g4657"
+         transform="matrix(0.6666673,0,0,0.66666804,-71.764774,21.530067)"
+         inkscape:export-filename="D:\coreSensingTechnologies\Software\coreviewer\app\src\main\res\mipmap-xxhdpi\play_button.png"
+         inkscape:export-xdpi="144"
+         inkscape:export-ydpi="144">
+        <g
+           inkscape:export-ydpi="144"
+           inkscape:export-xdpi="144"
+           inkscape:export-filename="D:\coreSensingTechnologies\Software\coreviewer\app\src\main\res\mipmap-xxhdpi\play_button.png"
+           transform="matrix(1.9049989,0,0,1.9049955,50.509987,-28.556302)"
+           id="g922">
+          <circle
+             cy="10.694907"
+             cx="-102.05978"
+             id="path885"
+             style="fill:none;stroke:#000000;stroke-width:6.87186861;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:export-filename="D:\coreSensingTechnologies\Software\coreviewer\app\src\main\res\mipmap-xxhdpi\play_button.png"
+             inkscape:export-xdpi="144"
+             inkscape:export-ydpi="144"
+             r="34.359341" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path894"
+             d="M -110.7266,26.884431 V -5.9011593 l 23.178308,16.3927973 z"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.04210222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="g4652"
+         transform="matrix(0.66666713,0,0,0.66666713,149.63388,63.105457)"
+         inkscape:export-filename="D:\coreSensingTechnologies\Software\coreviewer\app\src\main\res\mipmap-xxhdpi\stop_button.png"
+         inkscape:export-xdpi="144"
+         inkscape:export-ydpi="144">
+        <rect
+           transform="scale(-1)"
+           id="rect840"
+           y="47.086838"
+           x="287.45053"
+           width="48"
+           height="48"
+           style="stroke-width:8.00000095" />
+        <ellipse
+           transform="scale(-1)"
+           ry="65.454391"
+           rx="65.454506"
+           inkscape:export-ydpi="144"
+           inkscape:export-xdpi="144"
+           inkscape:export-filename="D:\coreSensingTechnologies\Software\coreviewer\app\src\main\res\mipmap-xxhdpi\play_button.png"
+           style="fill:none;stroke:#000000;stroke-width:13.09089088;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path885-9"
+           cx="311.45053"
+           cy="71.086838" />
+      </g>
+      <path
+         id="path823"
+         d="m 18.791427,-180.86933 h -2.05869 v -3.01272 c 0,-0.30685 -0.239905,-0.55791 -0.552334,-0.55791 H -5.0760095 c -0.312432,0 -0.563494,0.25106 -0.563494,0.55791 v 13.1667 c 0,0.30685 0.251062,0.55791 0.563494,0.55791 H 16.185983 c 0.306849,0 0.552334,-0.25106 0.552334,-0.55791 v -3.01272 h 2.05869 c 0.31243,0 0.56349,-0.25106 0.56349,-0.55791 v -6.02544 c -0.0056,-0.30686 -0.25664,-0.55791 -0.56907,-0.55791 z m -1.221825,5.35595 h -0.82571 -1.796469 v 1.78531 1.78532 H -3.8541865 v -10.7119 H 14.947423 v 1.78532 1.78532 h 1.796469 0.82571 z"
+         inkscape:connector-curvature="0"
+         style="stroke-width:0.05579112"
+         inkscape:export-filename="D:\coreSensingTechnologies\Software\coreviewer\app\src\main\res\drawable\battery_empty.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path833"
+         d="m -13.171212,-181.74281 h -2.058693 v -3.01272 c 0,-0.30685 -0.2399,-0.55791 -0.552331,-0.55791 h -21.256419 c -0.312425,0 -0.563487,0.25106 -0.563487,0.55791 v 13.1667 c 0,0.30685 0.251062,0.55791 0.563487,0.55791 h 21.262 c 0.30685,0 0.552331,-0.25106 0.552331,-0.55791 v -3.01272 h 2.058692 c 0.31243,0 0.56349,-0.25106 0.56349,-0.55791 v -6.02544 c -0.0056,-0.30685 -0.256639,-0.55791 -0.56907,-0.55791 z m -1.221824,5.35595 h -0.825713 -1.796468 v 1.78531 1.78532 h -2.733769 l -1.785312,-10.7119 h 4.519081 v 1.78532 1.78532 h 1.796468 0.825713 z"
+         inkscape:connector-curvature="0"
+         style="stroke-width:0.05579112" />
+      <path
+         id="path853"
+         d="m 88.664746,-180.78267 h -2.058694 v -3.01272 c 0,-0.30685 -0.239902,-0.55791 -0.552333,-0.55791 H 64.797301 c -0.312425,0 -0.563487,0.25106 -0.563487,0.55791 v 13.16671 c 0,0.30685 0.251062,0.55791 0.563487,0.55791 H 86.0593 c 0.30685,0 0.552333,-0.25106 0.552333,-0.55791 v -3.01272 h 2.058694 c 0.312425,0 0.563487,-0.25106 0.563487,-0.55791 v -6.02545 c -0.0056,-0.30685 -0.256637,-0.55791 -0.569068,-0.55791 z"
+         inkscape:connector-curvature="0"
+         style="stroke-width:0.05579111"
+         inkscape:export-filename="D:\coreSensingTechnologies\Software\coreviewer\app\src\main\res\drawable\battery_full.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <g
+         id="g897"
+         transform="matrix(0.625,0,0,0.625,23.697546,-63.306633)"
+         inkscape:export-filename="D:\coreSensingTechnologies\Software\coreviewer\app\src\main\res\drawable\battery_half.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           style="stroke-width:0.08926579"
+           inkscape:connector-curvature="0"
+           d="M 6.9521774,-170.72245 H 40.971374 c 0.490962,0 0.883731,-0.4017 0.883731,-0.89266 v -4.82035 h 3.293908 c 0.499888,0 0.901585,-0.4017 0.901585,-0.89266 v -9.6407 c 0,-0.49097 -0.401697,-0.89266 -0.901585,-0.89266 h -3.302834 v -4.82035 c 0,-0.49097 -0.383843,-0.89266 -0.883732,-0.89266 H 6.9521774 c -0.49988,0 -0.90158,0.40169 -0.90158,0.89266 v 21.06672 c 0,0.49096 0.4017,0.89266 0.90158,0.89266 z m 32.0374966,-19.99554 v 2.85651 2.8565 h 2.874358 1.321134 v 5.71301 h -1.321134 -2.874358 v 2.85651 2.8565 H 23.189629 l -2.856506,-17.13903 z"
+           id="path873" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path893"
+           d="m 20.333123,-190.71803 4.90849,0.0733 2.931291,17.2623 -5.606915,-0.0772 -2.232866,-17.25836"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.88719934px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         id="g916"
+         transform="matrix(0.34583334,0,0,0.34583334,-39.03212,-154.2388)"
+         inkscape:export-filename="D:\coreSensingTechnologies\Software\coreviewer\app\src\main\res\drawable\signal_no.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           id="path899"
+           d="M 0,0 H 48 V 48 H 0 Z"
+           inkscape:connector-curvature="0"
+           style="fill:none" />
+        <path
+           id="path901"
+           d="M 44,16 V 4 L 4,44 H 36 V 16 Z"
+           inkscape:connector-curvature="0"
+           style="fill-opacity:0.3" />
+        <path
+           id="path903"
+           d="m 40,44 h 4 v -4 h -4 z m 0,-24 v 16 h 4 V 20 Z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="Page-1"
+         transform="matrix(0.70000001,0,0,0.70000001,16.842881,-153.69237)"
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+         inkscape:export-filename="D:\coreSensingTechnologies\Software\coreviewer\app\src\main\res\drawable\signal_full.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150">
+        <g
+           transform="translate(-128,-168)"
+           id="Icons-Device"
+           style="fill:#000000">
+          <g
+             transform="translate(128,168)"
+             id="signal-cellular-4-bar">
+            <path
+               id="Shape"
+               d="M 0,20 H 20 V 0 Z"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="Page-1-8"
+         transform="matrix(0.70000001,0,0,0.70000001,-18.78212,-152.97809)"
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+         inkscape:export-filename="D:\coreSensingTechnologies\Software\coreviewer\app\src\main\res\drawable\signal_low.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <g
+           transform="translate(-2,-168)"
+           id="Icons-Device-8"
+           style="fill:#000000">
+          <g
+             transform="translate(2,168)"
+             id="signal-cellular-1-bar">
+            <path
+               id="Shape-0"
+               d="M 0,20 H 20 V 0 Z M 18,18 H 9.3 V 13.5 L 18,4.8 Z"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g987">
+        <g
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="D:\coreSensingTechnologies\Software\coreviewer\app\src\main\res\drawable\signal_half.png"
+           style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+           transform="matrix(0.70000001,0,0,0.70000001,-0.92497571,-153.33524)"
+           id="Page-1-7">
+          <g
+             style="fill:#000000"
+             id="Icons-Device-6"
+             transform="translate(-44,-168)">
+            <g
+               id="signal-cellular-2-bar"
+               transform="translate(44,168)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 0,20 H 20 V 0 Z m 18,-2 h -6 v -7.2 l 6,-6 z"
+                 id="Shape-4" />
+            </g>
+          </g>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="path980"
+           d="m 7.8828191,-147.02345 0.1226779,6.9304 H 4.9999108 l 1.6543648,-5.17714 z"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.93882865px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <path
+         id="path989"
+         d="m 97.832111,-169.77863 h 21.261999 c 0.30685,0 0.55233,-0.25106 0.55233,-0.55791 v -3.01272 h 2.05869 c 0.31243,0 0.56349,-0.25106 0.56349,-0.55791 v -6.02544 c 0,-0.30685 -0.25106,-0.55791 -0.56349,-0.55791 h -2.06427 v -3.01272 c 0,-0.30685 -0.2399,-0.55791 -0.55233,-0.55791 H 97.832111 c -0.31243,0 -0.56349,0.25106 -0.56349,0.55791 v 13.1667 c 0,0.30685 0.25106,0.55791 0.56349,0.55791 z m 12.011829,-12.49721 -1.55657,4.51908 h 3.43115 l -5.60143,6.19282 1.55657,-4.51908 h -3.43115 z"
+         inkscape:connector-curvature="0"
+         style="stroke-width:0.05579112" />
+    </g>
+  </g>
+</svg>
