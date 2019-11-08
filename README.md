@@ -1,4 +1,4 @@
-SparkFun Qwiic Shield for Arduino
+core
 ========================================
 
 A feather wing shield with ADC and highG ACC.
